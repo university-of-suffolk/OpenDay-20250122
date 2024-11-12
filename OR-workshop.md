@@ -31,7 +31,7 @@ Welcome to the **Artificial Intelligence Workshop** on training your own object 
 ## Materials Needed
 
 - Laptop with internet access (will be provided in lab) 💻
-- Pre-installed Python and necessary libraries (instructions will be provided) 📦
+- Pre-installed Python and necessary libraries via Binder.org (instructions will be provided) 📦
 
 ## Topics
 
@@ -85,7 +85,7 @@ By participating in this workshop, students will gain valuable skills that direc
 
 For any questions or additional information, please contact:
 
-- **Kakia Chatsiou**
+- **Dr. Kakia Chatsiou, Lecturer in Computing, University of Suffolk**
   - Email: k [dot] chatsiou [at] uos.ac.uk
   - Virtual Office Hours: [Book here](https://outlook.office.com/bookwithme/user/90ad647b2ee3423ea75829c521f69bfd@UOS.AC.UK?anonymous&ep=signature) 
 
@@ -93,4 +93,4 @@ We look forward to seeing you at the workshop! 😊
 
 ---
 
-*This workshop is proudly hosted by [Your Institution/Organization].*
+*This workshop is proudly hosted by the School of Technology, Business and Arts, University of Suffolk.*
