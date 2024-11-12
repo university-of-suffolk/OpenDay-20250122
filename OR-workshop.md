@@ -31,7 +31,7 @@ Welcome to the **Artificial Intelligence Workshop** on training your own object 
 ## Materials Needed
 
 - Laptop with internet access (will be provided in lab) 💻
-- Pre-installed Python and necessary libraries via Binder.org (instructions will be provided) 📦
+- Pre-installed Python and necessary libraries via Binder.org (instructions will be provided) 📦 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/university-of-suffolk/OpenDay-20241113/HEAD)
 
 ## Topics
 
