@@ -3,7 +3,7 @@
 ## Artificial Intelligence Workshop
 
 ### Led by Kakia Chatsiou, Lecturer
-
+<!--
 https://hub.binder.curvenote.dev/user/university-of-s-penday-20241113-rliyum3s/lab/tree/vegetable-image-classification-using-cnn.ipynb
 https://awsacademy.instructure.com/courses/91465/files/folder/Educator%20Files/Presentation%20Files?preview=4267109
 https://awsacademy.instructure.com/courses/91466/files/folder/Educator%20Files/Presentations?preview=4267174(information extraction)
@@ -14,7 +14,7 @@ https://www.geeksforgeeks.org/cifar-10-image-classification-in-tensorflow/
 https://mljar.com/blog/jupyter-notebook-hide-code/
 https://github.com/aws/amazon-sagemaker-examples/blob/default/%20%20%20%20%20%20build_and_train_models/sm-object_detection_birds/sm-object_detection_birds.ipynb
 https://drive.google.com/drive/folders/1mWBXW4K-W2s7JAXNMrWxpz-gdk32NPUB
-
+-->
 ---
 
 Welcome to the **Artificial Intelligence Workshop** on training your own object recognition model! This workshop is designed to introduce students to the exciting world of AI and machine learning, focusing on practical skills and hands-on experience.
