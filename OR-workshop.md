@@ -42,9 +42,9 @@ Welcome to the **Artificial Intelligence Workshop** on training your own object 
 ## Materials Needed
 
 - Laptop with internet access (will be provided in lab) 💻
-- Pre-installed Python and necessary libraries via Binder.org (instructions will be provided) 📦 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/university-of-suffolk/OpenDay-20241113/HEAD)
+- Pre-installed Python and necessary libraries via Binder.org 📦 Use this link to create a virtual instance in a browser of the setup I demonstrated (without the need to install anything on your machine) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/university-of-suffolk/OpenDay-20241113/HEAD)
+- [Jupyter notebook link](https://github.com/university-of-suffolk/OpenDay-20241113/blob/main/ORworkshop/vegetable-image-classification-using-cnn.ipynb)
+- [Image Files](https://github.com/university-of-suffolk/OpenDay-20241113/tree/main/ORworkshop/images)
 
 ## Topics
 
