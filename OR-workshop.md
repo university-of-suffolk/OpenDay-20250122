@@ -21,8 +21,7 @@ Welcome to the **Artificial Intelligence Workshop** on training your own object 
 
 ## Workshop Details
 
-- **Date:** 13 Nov 2024 📅
-- **Time:** 13.45 ⏰
+- **Date:** 22 Jan 2025 📅
 - **Location:** A208 📍
 
 ## What You'll Learn
@@ -43,8 +42,8 @@ Welcome to the **Artificial Intelligence Workshop** on training your own object 
 
 - Laptop with internet access (will be provided in lab) 💻
 - Pre-installed Python and necessary libraries via Binder.org 📦 Use this link to create a virtual instance in a browser of the setup I demonstrated (without the need to install anything on your machine) 👉 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/university-of-suffolk/OpenDay-20241113/HEAD)
-- [Jupyter notebook link](https://github.com/university-of-suffolk/OpenDay-20241113/blob/main/ORworkshop/vegetable-image-classification-using-cnn.ipynb)
-- [Image Files](https://github.com/university-of-suffolk/OpenDay-20241113/tree/main/ORworkshop/images)
+- [Jupyter notebook link](https://github.com/university-of-suffolk/OpenDay-20250122/blob/main/ORworkshop/vegetable-image-classification-using-cnn.ipynb)
+- [Image Files](https://github.com/university-of-suffolk/OpenDay-20250122/tree/main/ORworkshop/images)
 - [Slides](https://docs.google.com/presentation/d/1hRwhQB3i8-yYrX6bRup79DeB2OwVfwR7xOVm6_ZN16A/edit?usp=sharing)
 
 ## Topics covered
